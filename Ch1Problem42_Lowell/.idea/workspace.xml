@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad0e3068-b837-42dc-878c-cc1f9d8a8ad1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ad0e3068-b837-42dc-878c-cc1f9d8a8ad1" name="Default Changelist" comment="updating">
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch1Problem42_Lowell.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch1Problem42_Lowell/Ch1Problem42_Lowell/Listing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ch1Problem42_Lowell/Ch1Problem42_Lowell/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch1Problem42_Lowell/Listing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch1Problem42_Lowell/Main.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +52,7 @@
   <component name="RunManager" selected="Application.Ch1Assignment41_Lowell">
     <configuration name="Ch1Assignment41_Lowell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch1Assignment41_Lowell" />
+      <module name="Ch1Problem42_Lowell" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568843096479</updated>
     </task>
+    <task id="LOCAL-00001" summary="updating">
+      <created>1568845494276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568845494276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating" />
   </component>
 </project>
