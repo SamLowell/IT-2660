@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad0e3068-b837-42dc-878c-cc1f9d8a8ad1" name="Default Changelist" comment="updating">
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch1Problem42_Lowell.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ch1Problem42_Lowell/Ch1Problem42_Lowell/Listing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ch1Problem42_Lowell/Ch1Problem42_Lowell/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1Problem42_Lowell/Listing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1Problem42_Lowell/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="ad0e3068-b837-42dc-878c-cc1f9d8a8ad1" name="Default Changelist" comment="updating" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
