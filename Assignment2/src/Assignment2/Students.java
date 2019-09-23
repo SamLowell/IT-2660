@@ -2,7 +2,7 @@ package Assignment2;
 
 import javax.swing.*;
 
-public class StudentListings {
+public class Students {
     private String name; //key field
     private String idNumber;
     private double gpa;
@@ -26,12 +26,12 @@ public class StudentListings {
         return gpa;
     }
 
-    public StudentListings(){
+    public Students(){
         name = "unknown";
         idNumber = "0";
         gpa = 0;
     }
-    public StudentListings(String Name, String ID, double G){
+    public Students(String Name, String ID, double G){
         name = Name;
         idNumber = ID;
         gpa = G;
@@ -39,8 +39,8 @@ public class StudentListings {
     public String toString(){
         return("Name: " + this.name + "\nID Number: "+ this.idNumber + "\nGrade Point Average: " + this.gpa);
     }
-    public StudentListings deepCopy(){
-        StudentListings clone = new StudentListings(name, idNumber, gpa);
+    public Students deepCopy(){
+        Students clone = new Students(name, idNumber, gpa);
         return clone;
     }
     public int compareTo(String targetKey){
