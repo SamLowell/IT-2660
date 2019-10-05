@@ -1,11 +1,14 @@
 package Assignment2;
 
 import javax.swing.*;
+import java.util.Scanner;
 
 public class Students {
     private String name; //key field
     private String idNumber;
     private double gpa;
+
+    Scanner keyboard = new Scanner(System.in);
 
     public void setName(String Name){
         name = Name;
@@ -47,9 +50,12 @@ public class Students {
         return (name.compareTo(targetKey));
     }
     public void input(){
-        name = JOptionPane.showInputDialog("Enter Student Name: ");
-        idNumber = JOptionPane.showInputDialog("Enter Student ID Number: ");
-        gpa = Double.parseDouble(JOptionPane.showInputDialog("Enter Student GPA: "));
+        System.out.println("Enter Student Name: ");
+        name = keyboard.next();
+        System.out.println("Enter Student ID Number: ");
+        idNumber = keyboard.next();
+        System.out.println("Enter Student GPA: ");
+        gpa = keyboard.nextDouble();
     }
 
 }
