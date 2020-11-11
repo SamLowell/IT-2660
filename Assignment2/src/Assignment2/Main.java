@@ -18,7 +18,7 @@ public class Main {
 	System.out.println(s3.toString());*/
 
 
-    //exercise 21, I can make this more like the book asks for if needed.
+    //exercise 21
         StudentList newList = new StudentList();
         newList.printStudentList();
         System.out.println("Now add a new student. ");
