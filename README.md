@@ -22,8 +22,8 @@ stack is empty or full.
 Assignment 4:  Linked List.  Add node to the end of list, insert a node to specific location, add node the beginning of list,
 search list, delete node.
 
-Assignment 6:  
+Assignment 6:  Recursion.  Create an array of random integers and then sort the array using a recursion method.
 
-Assignment 7:
+Assignment 7:  Binary Trees.  Store student information in a binary tree.
 
-Assignment 9:
+Assignment 9:  Graph, Queue, Breadth First search, Depth First search, Dijkstar search.  The assignment was to create a randomly generated graph and utualize the three search algorithms: breadth first, depth first and Dijkstar.
